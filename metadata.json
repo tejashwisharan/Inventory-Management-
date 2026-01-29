@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Inventory OS",
+  "description": "An enterprise-grade, AI-powered inventory management system featuring ABC analysis, EOQ calculations, demand forecasting, and Gemini-driven insights.",
+  "requestFramePermissions": []
+}
